@@ -769,3 +769,10 @@ img {
     max-width: 10rem;
   }
 }
+
+@media screen and (min-width: 827px) {
+  .modal {
+    align-items: center;
+    justify-content: center;
+  }
+}
